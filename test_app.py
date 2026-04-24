@@ -1,3 +1,4 @@
+"""Tests unitarios para la función suma."""
 import unittest
 from app import suma
 
